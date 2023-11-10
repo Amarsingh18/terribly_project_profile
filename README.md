@@ -1,0 +1,23 @@
+(1) So Basically i have created a website that is provide by the compnay i tried my best to make it more creative..
+
+(2) I have created the app by cammand (npx create-react-app terribly_project)..
+
+(3) I have used saveral components like Background.js and Post.js and Profileheader.js and Togglebar.js 
+
+(4) In background.js I have did only added a background cover image of bridge that you can see in project....
+
+(5) In post.js I have done the date and timing parts of the post what ever we are posting....
+
+(6) In toggleBar.js I have done the part of toggle bar and witing there stories nad adding symbol...
+
+(7) In ProfileTimeLine.js I have done and call the post.js component and add adding post there what ever we are 
+posting....
+
+(8) In ProfileHeader.js I have done the we can say half main part there so at there i have added from where i belong and what is my degignation and what is my contacyt details.....
+
+(9) In App.css I have done the css part to style my components and i have the syling parts there...
+
+(10) In App.js so that is main file where we call all the components which we are required there and done routing parts there fetiching the path of componets.....
+    
+
+         Thank you sir that is all about my projects.... 4 hour hard work.....🙏🙏🙏🙏🙏
